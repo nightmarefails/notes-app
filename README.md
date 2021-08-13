@@ -3,6 +3,8 @@
 ## Description
 Notes app is website that allows you to create and save notes to be viewed later and delete them on completion. Created using an express based backend. notes are stored in a db.json file and managed by the express server.
 
+Front-end was provided by client and all backend server code was completed by myself.
+
 ## Usage
 The user when visiting the webpage click on note button and is greated with all saved notes.
 The user can select notes on the left side of the page to read them or click the plus sign in the top right corner and enter a new note.
