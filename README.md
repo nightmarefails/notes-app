@@ -20,4 +20,3 @@ This repository is covered by the GNU GPLv3 license.
 ## Deployed Website
 
 ![siteimage](/assets/images/notes-app.png)
-[Notes App](https://safe-plateau-89097.herokuapp.com)
